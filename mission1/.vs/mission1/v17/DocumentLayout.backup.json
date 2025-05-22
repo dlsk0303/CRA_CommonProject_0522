@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|solutionrelative:mission1\\fix_keyword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\keyword_weekday_500.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|solutionrelative:mission1\\keyword_weekday_500.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|solutionrelative:mission1\\fix_keyword_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25219A17-C3AB-46C6-ACB9-BCB8A8EA42A9}|mission1\\mission1.vcxproj|solutionrelative:mission1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fix_keyword.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword.cpp",
+              "RelativeDocumentMoniker": "mission1\\fix_keyword.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword.cpp",
+              "RelativeToolTip": "mission1\\fix_keyword.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T04:32:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "keyword_weekday_500.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\keyword_weekday_500.txt",
+              "RelativeDocumentMoniker": "mission1\\keyword_weekday_500.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\keyword_weekday_500.txt",
+              "RelativeToolTip": "mission1\\keyword_weekday_500.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T01:24:11.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fix_keyword_test.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword_test.cpp",
+              "RelativeDocumentMoniker": "mission1\\fix_keyword_test.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\fix_keyword_test.cpp",
+              "RelativeToolTip": "mission1\\fix_keyword_test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T01:18:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\main.cpp",
+              "RelativeDocumentMoniker": "mission1\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\YYN\\mission1\\M1\\mission1\\main.cpp",
+              "RelativeToolTip": "mission1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T01:14:18.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
