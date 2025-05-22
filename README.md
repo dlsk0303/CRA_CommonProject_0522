@@ -1,14 +1,13 @@
-## mission2 폴더 안에 mission1의 프로젝트를 그대로 복사하다보니
-## mission2지만 프로젝트명, 실행파일 등이 mission1이라고 나오는 점 양해 부탁드립니다.
+## mission2 폴더 안에 mission1의 프로젝트를 그대로 복사하다보니 mission2지만 프로젝트명, 실행파일 등이 mission1이라고 나오는 점 양해 부탁드립니다.
 시간 부족으로 프로젝트를 다시 생성하지 못 했습니다. 😭
 
 
 # 요구사항 체크리스트
-D1 : O
-D2 : O
-D3 : O
-D4 : O (DI, Factory)
-D5 : X (커버리지 78% 달성)
+1. D1 : O
+2. D2 : O
+3. D3 : O
+4. D4 : O (DI, Factory)
+5. D5 : X (커버리지 78% 달성)
 
 
 # bugfix 
